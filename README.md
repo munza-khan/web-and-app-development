@@ -1,2 +1,9 @@
-# web-and-app-development
-Documenting my progress as I learn web and app development.
+# Web & App Development
+
+I’m learning web and app development and tracking my progress here.
+
+## Progress
+
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
