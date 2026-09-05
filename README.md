@@ -1,6 +1,6 @@
 # Web & App Development
 
-I’m learning web and app development and tracking my progress here.
+I’m learning web and app development and documenting my progress here.
 
 ## Progress
 
