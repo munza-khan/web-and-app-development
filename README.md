@@ -19,3 +19,4 @@ I’m learning web and app development and documenting my progress here.
 - [x] Tables (rows & columns)
 - [x] Unordered lists
 - [x] Ordered lists
+- [x] Forms
